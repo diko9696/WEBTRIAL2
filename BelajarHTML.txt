@@ -1,0 +1,8 @@
+day 1 - 9.18 menit
+day 2 konsep dasar membuat website dari nol sampai 39,30 menit
+day 3 - 1.15:36 jam
+Selesai sesi 1 tgl 3-12-2022
+
+Sesi-2 Implementasi Logika Sederhana
+tgl 3-12-2022 (JS atau bermain data)
+penjelasan= const,dan let (menit ke 30 sampai 33 menit)
